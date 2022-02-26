@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background: rgb(233,154,84); background: linear-gradient(0deg, rgba(233,154,84,1) 20%, rgba(125,25,25,1) 98%);
+    background-size:cover;
+}
+hr{
+    background-color:black;
+    height:2px;
+    border:0px;
+}
+h1{
+    width:500px;
+    border:5px double black;
+    padding:5px;
+    border-radius:20px;
+    margin-left:320px;
+    color:rgb(245, 160, 104);
+    font-family: 'Shizuru', cursive;
+}
+canvas{
+    border:10px ridge black;
+}
